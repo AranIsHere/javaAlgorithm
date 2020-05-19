@@ -1,0 +1,189 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AddBy2PrimeNumber",
+            "request": "launch",
+            "mainClass": "basicPractice.AddBy2PrimeNumber",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MonkeyTakePeach",
+            "request": "launch",
+            "mainClass": "basicPractice.MonkeyTakePeach",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Count3ToQuit",
+            "request": "launch",
+            "mainClass": "basicPractice.Count3ToQuit",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-BallDrop<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.BallDrop",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-DayOfYear<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.DayOfYear",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FactorialAdd<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.FactorialAdd",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FactorialAddByFactorial<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.FactorialAddByFactorial",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FindNumber<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.FindNumber",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-FractionNumberAdd<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.FractionNumberAdd",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-HowOld<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.HowOld",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MoneyAward<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.MoneyAward",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MonkeyEatPeach<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.MonkeyEatPeach",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MultiplyList<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.MultiplyList",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumFillWithNum<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.NumFillWithNum",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberCompare<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.NumberCompare",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberCount<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.NumberCount",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PerfectNumber<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.PerfectNumber",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PrimeNumber<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.PrimeNumber",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Rabbit<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.Rabbit",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StrIdentify<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.StrIdentify",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-YHtrigon<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.YHtrigon",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-commonDivisor<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.commonDivisor",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-daffodils<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.daffodils",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-diamondPrint<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.diamondPrint",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-resolveNum<JavaAlgorithm_ffb0f1f6>",
+            "request": "launch",
+            "mainClass": "basicPractice.resolveNum",
+            "projectName": "JavaAlgorithm_ffb0f1f6"
+        }
+    ]
+}
